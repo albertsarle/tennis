@@ -22,7 +22,7 @@ install via composer adding the public repo in github
 
 See index.php for an example
 
-<?php
+
 
 use Sarle\Tennis\Match;
 
